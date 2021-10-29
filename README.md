@@ -1,7 +1,7 @@
 # Leitura de arquivo JSON
 
 ## Sobre o projeto
-Nesse projeto percorro um arquivo JSON, faço a desserialização do mesmo e serializado em objeto Java.
+Nesse projeto percorro um arquivo JSON, faço a desserialização do mesmo e serializo em objeto Java.
 
 ## Tecnologias utilizadas
 * Java
